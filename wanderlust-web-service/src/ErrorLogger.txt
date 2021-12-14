@@ -1,0 +1,418 @@
+Error: User already exits with given contact number
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:31:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: User already exits with given contact number
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:31:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: User already exits with given contact number
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:31:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: User already exits with given contact number
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:31:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: User already exits with given contact number
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:31:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: User already exits with given contact number
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:31:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: User already exits with given contact number
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:31:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: User already exits with given contact number
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:33:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: User already exits with given contact number
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:35:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: User already exits with given contact number
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:35:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:62:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:62:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:62:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:62:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:62:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:62:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:62:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:62:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:62:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:62:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:62:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:62:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:62:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:62:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:62:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:62:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:62:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:62:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:62:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:62:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:62:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:62:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:62:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:62:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:62:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+ReferenceError: destinationName is not defined
+    at new Booking (D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\model\beanClasses\booking.js:6:32)
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:108:30
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+ValidationError: Bookings validation failed: checkOutDate: Cast to date failed for value "16-06-2020" at path "checkOutDate"
+    at new ValidationError (D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\error\validation.js:31:11)
+    at model.Document.invalidate (D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:2563:32)
+    at model.$set (D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:1238:12)
+    at model._handleIndex (D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:978:14)
+    at model.$set (D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:919:22)
+    at model.Document (D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:136:12)
+    at model.Model (D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\model.js:105:12)
+    at new model (D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\model.js:4708:15)
+    at Array.<anonymous> (D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\model.js:3315:17)
+    at _start (D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\helpers\parallelLimit.js:27:37)
+    at parallelLimit (D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\helpers\parallelLimit.js:23:5)
+    at Function.Model.$__insertMany (D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\model.js:3345:3)
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\node_modules\kareem\index.js:369:33
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+ValidationError: Bookings validation failed: checkOutDate: Cast to date failed for value "16/06/2020" at path "checkOutDate"
+    at new ValidationError (D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\error\validation.js:31:11)
+    at model.Document.invalidate (D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:2563:32)
+    at model.$set (D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:1238:12)
+    at model._handleIndex (D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:978:14)
+    at model.$set (D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:919:22)
+    at model.Document (D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:136:12)
+    at model.Model (D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\model.js:105:12)
+    at new model (D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\model.js:4708:15)
+    at Array.<anonymous> (D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\model.js:3315:17)
+    at _start (D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\helpers\parallelLimit.js:27:37)
+    at parallelLimit (D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\helpers\parallelLimit.js:23:5)
+    at Function.Model.$__insertMany (D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\model.js:3345:3)
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\node_modules\kareem\index.js:369:33
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+Error: Incorrect password
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:85:22
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:85:22
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:85:22
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:85:22
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:85:22
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:85:22
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:85:22
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:85:22
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:85:22
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:85:22
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:85:22
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:85:22
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:85:22
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:85:22
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:85:22
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:85:22
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:85:22
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:85:22
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:85:22
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:85:22
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:85:22
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:85:22
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:85:22
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:85:22
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:85:22
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:85:22
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:85:22
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:85:22
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:85:22
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'userId' of undefined
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:144:37
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'userId' of undefined
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:144:40
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'userId' of undefined
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:144:40
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'userId' of undefined
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:144:40
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'userId' of undefined
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:144:42
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'userId' of undefined
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:144:42
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'userId' of undefined
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:144:42
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:97:22
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:62:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:97:22
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:97:22
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:97:22
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:97:22
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:97:22
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:97:22
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:97:22
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:97:22
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:97:22
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:97:22
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:97:22
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:97:22
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:97:22
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:97:22
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:97:22
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:97:22
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:97:22
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:97:22
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:97:22
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:97:22
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:62:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:62:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:62:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at D:\UI Web Dev\FA4\Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:97:22
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
